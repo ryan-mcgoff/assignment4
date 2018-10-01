@@ -22,7 +22,7 @@
         android:contentDescription="Turn off daily notifications" />
 
 
-    <com.example.android.flexitask.TimePreferenceObject
+    <com.stealbox.android.flexitask.TimePreferenceObject
         android:key="time"
         android:title="Set Daily Notification"
         android:defaultValue="8:00"

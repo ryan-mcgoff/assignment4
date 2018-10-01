@@ -1,11 +1,11 @@
-package com.example.android.flexitask;
+package com.stealbox.android.flexitask;
 
 import android.app.AlarmManager;
 import android.app.PendingIntent;
 import android.content.Intent;
 import android.provider.CalendarContract;
 
-import com.example.android.flexitask.data.taskContract;
+import com.stealbox.android.flexitask.data.taskContract;
 
 import org.junit.Test;
 
